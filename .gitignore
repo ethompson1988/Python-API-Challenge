@@ -1,18 +1,10 @@
+config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 .DS_store
 config.py
-<<<<<<< HEAD
-=======
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-.DS_store
-config.py
->>>>>>> 33f863e71622a24504f042cf98071e91ce7548b4
 # C extensions
 *.so
 
@@ -136,8 +128,4 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-<<<<<<< HEAD
 .pyre/
-=======
-.pyre/
->>>>>>> 33f863e71622a24504f042cf98071e91ce7548b4
